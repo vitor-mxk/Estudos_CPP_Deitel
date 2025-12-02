@@ -1,4 +1,8 @@
-# Estudos C++: Deitel
+# Estudos C++ 
+
+
+C++: COMO PROGRAMAR - Harvey M. Deitel e Paul. J Deitel
+
 # 🚀 Portfólio de Estudos: C++ Como Programar
 > Documentando minha jornada de aprendizado do livro de **Deitel & Deitel** rumo ao desenvolvimento de Jogos.
 
@@ -9,7 +13,7 @@
 ---
 
 ## 📖 Sobre o Projeto
-Este repositório contém as soluções dos exercícios, anotações e códigos práticos desenvolvidos durante o estudo do livro **"C++ Como Programar" (10ª Edição)**. 
+Este repositório contém as soluções dos exercícios, anotações e códigos práticos desenvolvidos durante o estudo do livro **"C++ Como Programar" (5ª Edição)**. 
 
 Meu objetivo é dominar a sintaxe e a lógica do C++ para aplicar na criação de engines e jogos digitais.
 
