@@ -21,12 +21,12 @@ Meu objetivo é dominar a sintaxe e a lógica do C++ para aplicar na criação d
 
 | Capítulo | Tópico Principal | Situação |
 | :---: | :--- | :---: |
-| **01** | Introdução a Computadores e C++ | ✅ Concluído |
-| **02** | Introdução à Programação (Input/Output) | 🔄 Estudando |
-| **03** | Introdução a Classes e Objetos | ⬜ Pendente |
-| **04** | Estruturas de Controle (If/Else/While) | ⬜ Pendente |
-| **05** | Estruturas de Controle (For/Do-While) | ⬜ Pendente |
-| **06** | Funções e Recursão | ⬜ Pendente |
+| **01** | Introdução aos computadores, à Internet e à World Wide Web | ✅ Concluído |
+| **02** | Introdução à programação em C++ | 🔄 Estudando |
+| **03** | Introdução a classes e objetos | ⬜ Pendente |
+| **04** | Instruções de controle: parte 1 | ⬜ Pendente |
+| **05** | Instruções de controle: parte 2 | ⬜ Pendente |
+| **06** | Funções e uma introdução à recursão | ⬜ Pendente |
 | **...** | ... | ... |
 
 *(Legenda: ✅ Feito | 🔄 Em andamento | ⬜ A fazer)*
